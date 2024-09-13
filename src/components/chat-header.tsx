@@ -34,6 +34,7 @@ const ChatHeader: FC<ChatHeaderProp> = ({ title, chatId, userData }) => {
         1
         fix 2.3
         3.1
+        len 1
       </div>
     </div>
   );
