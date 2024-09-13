@@ -31,6 +31,8 @@ const ChatHeader: FC<ChatHeaderProp> = ({ title, chatId, userData }) => {
           className='text-primary cursor-pointer'
           size={24}
         />
+        1
+        2
       </div>
     </div>
   );
