@@ -32,7 +32,8 @@ const ChatHeader: FC<ChatHeaderProp> = ({ title, chatId, userData }) => {
           size={24}
         />
         1
-        2
+        2.3
+        3.1
       </div>
     </div>
   );
